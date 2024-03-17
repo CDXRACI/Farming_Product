@@ -1,0 +1,55 @@
+Keyboard shortcut	Function
+⊞ Win + S	Opens Search
+ ⊞ Win + I	Opens Settings
+⊞ Win + A	Opens Action Center
+ ⊞ Win + X	Opens Quick Link menu
+⊞ Win + Left Arrow	Snaps active window to the left
+⊞ Win + Right Arrow	Snaps active window to the right
+⊞ Win + Up Arrow	Maximizes the current window
+⊞ Win + Down Arrow	Minimizes or hides current window
+⊞ Win + Ctrl + D	Creates a new virtual desktop
+⊞ Win + Ctrl + Left Arrow	Cycles through virtual desktops to the left
+⊞ Win + Ctrl + Right Arrow	Cycles through virtual desktops to the right
+⊞ Win + Ctrl + F4 (some keyboards may require Win + Fn + Ctrl + F4)	Closes current desktop
+⊞ Win + TAB	Accesses all desktops and apps in Task View
+⊞ Win + PrtSc	Takes a screenshot and saves it to Screenshots folder
+⊞ Win + G	Opens Game bar
+⊞ Win + Alt + G	Records the last 30 seconds (for Xbox Game bar)
+⊞ Win + Alt + R	Manually starts and stops recording (for Xbox Game bar)
+Command Prompt shortcuts
+The revised Windows 10 Command Prompt also includes updated shortcuts for easier use.
+
+Keyboard shortcut	Function
+Shift + Left Arrow	Highlights text on the cursor’s left
+Shift + Right Arrow	Highlights text to the cursor’s right
+Ctrl + C	Copies selected text to clipboard
+Ctrl + V	Pastes text from clipboard
+Ctrl + A	Selects all text
+General Windows 10 keyboard shortcuts
+There are plenty of returning keyboard shortcuts to go along with all the new Windows 10 shortcuts. The following are some of the most basic, general, and sought-after keyboard shortcuts for general day-to-day use in Windows.
+
+Keyboard shortcut	Function
+⊞ Win	Displays or hides Start
+Ctrl + Shift + Esc	Opens the Task Manager
+⊞ Win + M	Minimizes all windows
+⊞ Win + Shift + M	Restores all minimized windows
+⊞ Win + R	Opens the Run dialogue box
+⊞ Win + F1 (some keyboards may require Win + Fn + F1)	Opens Windows Help and Support
+⊞ Win + Plus (“+”)	Zooms in using Magnifier
+⊞ Win + Minus (“-“)	Zooms out using Magnifier
+⊞ Win + L	Locks your PC or switches accounts
+Alt + F4	Closes the current item or exits the current app
+Alt + Enter	Displays properties for the selected item
+Alt + Spacebar	Opens shortcut menu for an active window
+Ctrl + X	Cuts a selected item
+Ctrl + V	Pastes a selected item
+Ctrl + Y	Redo a previous action
+Ctrl + Z	Undo a previous action
+Ctrl + SHIFT + Z	Redo an action.
+F1 (some keyboards may require Fn + F1)	Displays help (app-specific)
+F2	Renames a selected item
+F3	Searches for a file or folder in File Explorer
+F4	Displays the address bar list in File Explorer
+F5	Refreshes an active window
+F10	Activates the menu bar in an active app
+⊞ Win+ D	Displays and hides desktop

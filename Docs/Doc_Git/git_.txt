@@ -1,0 +1,266 @@
+ 
+
+3 different levels: 
+
+--system: apply to all user on this computer 
+
+--global:  apply to your account 
+
+--local: apply to specific repos. 
+
+ 
+
+-------------------------------------------------------- 
+
+Config 
+
+-------------------------------------------------------- 
+
+@check config: 
+
+    Local 
+
+Git config  --local user.email"" 
+
+Git config  --local user.name "" 
+
+// Remember local user just active when it declares inside folder initialized git repo  
+
+    Global 
+
+Git config –global user.email "" 
+
+Git config –global user.name "" 
+
+    System 
+
+Git config –system user.name "" 
+
+Git config –system  user.email "" 
+
+    To delete a user or email 
+
+Git config –local/global/system --unset user.name or user.email 
+
+    To delete all user or email 
+
+Git config –local/global/system --unset-all 
+
+    To Show everything config for git 
+
+   Git config --list 
+
+ 
+
+@Git init 
+
+Initializing repo. 
+
+@ git add 
+
+3 stages: 
+
+    Working directory 
+
+    staging 
+
+     .repo 
+
+    Git add to bring components into staging before they will be going into .repo local 
+
+CM1: git add file 
+
+CM2: git add . { add all } 
+
+ 
+
+@ git commit –m " comment " 
+
+    Shift files which into .repo from staging were added by git add 
+
+CM1: git commit –m " comment " 
+
+CM2: git commit –a –m "comment " add and commit 
+
+ 
+
+@git status 
+
+    Check status of repo local, branch... 
+
+ CM1: Git status –s  
+
+  // '' unmodified 
+
+     M modified 
+
+     U updated but not merge 
+
+     D deleted 
+
+     R renamed 
+
+     A added 
+
+     C copied 
+
+ 
+
+@git reset 
+
+    Reset latest commit or staging 
+
+CM1: git reset –soft HEAD~1 // deleted latest commit and move files into staging 
+
+CM2: git reset –hard HEAD~1 // deleted latest commit and don't move files into staging and force deleted. 
+
+CM3: git reset // removed files in staging 
+
+CM4: git reset –file // removed a specific file. 
+
+ 
+
+@git log 
+
+    Using git log to check git commit history. 
+
+CM1: Git log // check all commits 
+
+CM2: Git log –2 // check 2 lastest commits 
+
+CM3: git log –oneline –auhtor="<name> "// check all commits by  "CDXRACI" 
+
+CM4: git log –oneline –after="" before="" // check commits from those days -> this day 
+
+    Options: 
+
+W: write 
+
+R: return 
+
+Spac: previous page 
+
+Q: quit 
+
+(n): go to search above 
+
+(N): go to search bellow 
+
+ 
+
+ 
+
+@git clone: 
+
+    Download git from repo on internet to your local repository. 
+
+CM1: git clone path 
+
+CM2: git clone path des_direc 
+
+CM3: git clone https://<TK>:<ACCESS TOKEN>@git.../path 
+
+@git push: 
+
+    Pushing to cloud 
+
+        If it's first you pushing data to cloud, try: 
+
+    CM1: git push –u origin master // remote has name is origin on branch master 
+
+    CM2: git push // if you has origin before just push it again 
+
+    CM3: git push origin beta // pushing to specific branch on cloud repo, 
+
+    CM4: git push origin –delete beta // To delete one branch has name beta on cloud 
+
+    CM5: git push –f origin master // overwriting on master 
+
+ 
+
+@git diff: 
+
+    To check changing inside folder's index. 
+
+CM2: git diff –staged // to check folder's index and latest commit. 
+
+CM3: git diff branch1 branch2 // to check difference between branch1 and branch2 
+
+CM4: git diff has-commit1 has-commit2 // to check difference between 2 hashes. 
+
+ 
+
+@git checkout: 
+
+    To switch another branch 
+
+CM1: Git checkout master// switch from main to master 
+
+CM2: git checkout hash // switch to hash 
+
+ 
+
+@git switch: 
+
+    To switch and create a new branch 
+
+CM1: git switch a// create and switch to a 
+
+CM2: git switch hash –c <branch's name>// create and switch to branch's name from hash 
+
+CM3: git switch –c <branch's name>// create and switch to branch from latest commit 
+
+ 
+
+@git restore: 
+
+    To restore all folders inside working folder. 
+
+CM1: git restore .  // restore all files 
+CM2: git restore file 
+CM3: git restore –stage file // remove file in stage 
+
+ 
+
+@git branch: 
+    git branh < new branch >
+    git branch 
+    Git branch –a // check all branches on repo 
+
+ 
+
+@git fetch 
+    pull data from local but not merge 
+    git fetch
+    git merge 
+
+@git merge 
+    merge data from one branch to another branch
+    git merge
+
+@git pull
+    pull data and merge automotically.
+    git pull
+    git pull < branch >
+
+    git pull --all
+
+@git ignore
+    ignore files that won't push to remote
+    touch .gitignore
+    with file.txt
+    git rm --cache file
+    with folder
+    /folder/
+    with file
+    file.<s>
+
+
+@git remote –v:  
+
+    To check address of remote repository. 
+
+ @git rm -f --cache <file>
+remove file was added by git add
+
+  
