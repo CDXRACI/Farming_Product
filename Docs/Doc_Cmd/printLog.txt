@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C15-94A6
+
+ Directory of C:\00_WorkSpace\Remote_Repo\Farming_Product\Docs\Doc_Cmd
+
+03/16/2024  06:21 PM    <DIR>          .
+03/16/2024  06:21 PM    <DIR>          ..
+03/16/2024  11:43 AM             2,128 doc_bat.txt
+03/16/2024  06:23 PM               137 printLog.bat
+03/16/2024  06:24 PM                 0 printLog.txt
+03/16/2024  06:22 PM               535 start
+               4 File(s)          2,800 bytes
+               2 Dir(s)  390,710,349,824 bytes free

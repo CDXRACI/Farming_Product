@@ -1,0 +1,34 @@
+1. nen su dung echo off neu khong luc print command se thanh tung don
+2. > create file
+3. REM commnet
+4. variable set /A 
+
+Operator
++ - / * %
+
+EQU 4 equ 4 is true
+NEQ 4 NEQ 2 is true
+LSS 2 LSS 4 will give true
+LEQ 2 < 4
+GTR  4 >2
+GEQ 4 > 2
+
+AND
+OR
+NOT
+BIT
+
+& | ^
+
+
+That takes a 4 character long substring of TEMPRPSW, starting from character 0. Meaning, it takes the first 4 characters of TEMPRPSW and puts them in RELVER.
+
+set TEMPRPSW=abcdef
+set RELVER=%TEMPRPSW:~0,4%
+echo %RELVER%       -> will print abcd
+%VAR:str=% removes str
+
+set RELVER=123.456
+set RELVER=%RELVER:.=%
+echo %RELVER%       -> will print 123456 with no .:
+ https://www.dostips.com/DtTipsStringManipulation.phphttps://www.dostips.com/DtTipsStringManipulation.php
