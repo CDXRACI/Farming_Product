@@ -12,5 +12,7 @@ int main()
     printf("string %s\r\n", str);
     scanf("%s", &str3);
     printf("print the input: %s\r\n", str3);
+    // comment on online
+    // /*--- comment on a paragrah ---*/
     return 0;
 }
