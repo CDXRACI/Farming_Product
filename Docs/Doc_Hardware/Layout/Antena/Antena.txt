@@ -1,0 +1,13 @@
+https://www.infineon.com/dgdl/Infineon-AN91445_Antenna_Design_and_RF_Layout_Guidelines-ApplicationNotes-v09_00-EN.pdf?fileId=8ac78c8c7cdc391c017d073e054f6227
+https://www.radioeng.cz/fulltexts/2016/16_03_0419_0428.pdf
+https://flex.flinders.edu.au/file/b1b2cb2b-c6b0-4f20-a60d-02e3a37f52ee/1/Karthik%20thesis%20amended.pdf
+https://ddd.uab.cat/pub/trerecpro/2015/hdl_2072_252332/TFM_HassanDelgado.pdf
+https://www.texim-europe.com/Cmsfile/SMM-SIM8200EA-M2_Hardware_Design_V1.03-DS-200608-TE.pdf
+https://simcomturkiye.com/pdf/5G/SIM8200G/SIM8200G_Hardware%20Design_V1.06.pdf
+https://www.quectel.com/wp-content/uploads/2021/03/Quectel_EC20-CN_Hardware_Design_V1.0.pdf
+https://pcbantennas.com/antenna-design/
+https://circuitdigest.com/article/how-to-design-a-pcb-antenna-for-24ghz
+https://www.nxp.com/docs/en/user-guide/UM10992.pdf
+https://www.ti.com/lit/an/swra328/swra328.pdf?ts=1711373643245&ref_url=http%253A%252F%252Fti.com%252Fproduct%252FCC430F5147
+https://www.ti.com/lit/an/swra161b/swra161b.pdf?ts=1711314248443
+https://www.infineon.com/dgdl/Infineon-AN91445_Antenna_Design_and_RF_Layout_Guidelines-ApplicationNotes-v09_00-EN.pdf?fileId=8ac78c8c7cdc391c017d073e054f6227
