@@ -12,4 +12,8 @@ https://www.nxp.com/docs/en/user-guide/UM10992.pdf
 https://www.ti.com/lit/an/swra328/swra328.pdf?ts=1711373643245&ref_url=http%253A%252F%252Fti.com%252Fproduct%252FCC430F5147
 https://www.ti.com/lit/an/swra161b/swra161b.pdf?ts=1711314248443
 https://www.infineon.com/dgdl/Infineon-AN91445_Antenna_Design_and_RF_Layout_Guidelines-ApplicationNotes-v09_00-EN.pdf?fileId=8ac78c8c7cdc391c017d073e054f6227
+<<<<<<< HEAD
 https://iopscience.iop.org/article/10.1088/1742-6596/1450/1/012043/pdf
+=======
+https://iopscience.iop.org/article/10.1088/1742-6596/1450/1/012043/pdf
+>>>>>>> 3403633b1f27f5d3b78b3289c17a4e5519b725a6
