@@ -1,0 +1,2 @@
+V + U ( switch mil <- -> mm ) 
+cHANGE SHEET SIZE ( Properties -> Page option -> Formatting and Size -> Sheet size )
