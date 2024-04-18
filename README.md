@@ -1,7 +1,7 @@
 
 # Farming V0.1
 
-This is product which develop by CD.P has design for my garden
+This is product which developed by CDP has design for my garden
 
 
 ## FM V0.1 - Description
