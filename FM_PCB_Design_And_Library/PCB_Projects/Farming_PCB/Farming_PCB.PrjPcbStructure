@@ -1,5 +1,5 @@
-Record=TopLevelDocument|FileName=[F_V1]_CommMunication_Sheet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=[F_V1]_CommMunication_Sheet.SchDoc|FileName=[F_V1]_PowerSheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=[F_V1]_CommMunication_Sheet.SchDoc|FileName=[F_V1]_Sensors_And_BlockControl_Sheet.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=[F_V1]_CommMunication_Sheet.SchDoc|FileName=[F_V1]MCU_Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=[F_V1]_CommMunication_Sheet.SchDoc|FileName=Main_Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=U_[F_V1]_CommMunication_Sheet|SchDesignator=U_[F_V1]_CommMunication_Sheet|FileName=[F_V1]_CommMunication_Sheet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=[F_V1]_CommMunication_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=U_[F_V1]_PowerSheet|SchDesignator=U_[F_V1]_PowerSheet|FileName=[F_V1]_PowerSheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=[F_V1]_PowerSheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=U_[F_V1]_Sensors_And_BlockControl_Sheet|SchDesignator=U_[F_V1]_Sensors_And_BlockControl_Sheet|FileName=[F_V1]_Sensors_And_BlockControl_Sheet.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=[F_V1]_Sensors_And_BlockControl_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=U_[F_V1]MCU_Sheet|SchDesignator=U_[F_V1]MCU_Sheet|FileName=[F_V1]MCU_Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=[F_V1]MCU_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
