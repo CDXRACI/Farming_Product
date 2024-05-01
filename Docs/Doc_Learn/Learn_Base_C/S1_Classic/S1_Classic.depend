@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713896885 source:c:\00_workspace\remote_repo\farming_product\docs\doc_learn\learn_base_c\s1_classic\main.c
+	<stdio.h>
+	<stdlib.h>
+
