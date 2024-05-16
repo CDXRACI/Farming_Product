@@ -1,0 +1,11 @@
+1. Tưới tự động - theo thời gian
+( nếu trời mưa quá lâu, bị ũng đất dừng tưới : )
+1.1 Tưới khi nhiệt độ quá cao 
+2. đo PH. Nếu nước bị nhiễm chua quá thì dừng ( hoặc phải khử đất )
+
+-------->
+
+-------->
+
+Ông nước 3 ống gộp 1.
+( Thần nông 1 )
