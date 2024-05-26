@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=VBATT Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=VBATT Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=VBATT Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=VBATT Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-1
+Removed Pin From Net: NetName=VBATT Pin=C45-2
+Removed Pin From Net: NetName=VBATT Pin=L2-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=C40
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=C41
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=C42
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=C44
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=C45
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=L2
+Added Component: Designator=C28(CAP_TANTAL_2917(7343-31))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "107/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP_TANTAL_2917(7343-31))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "107/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBATT Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=VBATT Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VBATT Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=VBATT Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VBATT Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VBATT Pin=C33-2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C28 107/16V
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C29 107/16V
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C30 10PF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C31 33PF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C32 0.1UF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C33 1UF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component Q2 2SC1815
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R28 NF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R30 NF
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

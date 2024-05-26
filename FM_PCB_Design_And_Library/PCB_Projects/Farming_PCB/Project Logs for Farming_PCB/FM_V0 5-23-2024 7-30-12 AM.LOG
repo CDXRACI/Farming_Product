@@ -1,0 +1,15 @@
+Added Component: Designator=P9(MUP-C7801)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "MUP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C7801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MUP-C7801"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_VDD Pin=P9-1
+Added Pin To Net: NetName=SIM_VDD Pin=P9-1
+Added Pin To Net: NetName=SIM_VDD Pin=P9-1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P9-5
+Added Pin To Net: NetName=NetP9_7 Pin=P9-7
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component P9 MUP-C7801

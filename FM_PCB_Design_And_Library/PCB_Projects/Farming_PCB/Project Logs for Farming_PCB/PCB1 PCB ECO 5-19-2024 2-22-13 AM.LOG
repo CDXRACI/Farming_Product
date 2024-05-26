@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=IO_Light_UV_Sensor Pin=JP1-5
+Removed Pin From Net: NetName=IO_Light_UV_Sensor Pin=JP1-12
+Removed Pin From Net: NetName=IO_Light_UV_Sensor Pin=U5-13
+Removed Pin From Net: NetName=IO_Light_UV_Sensor Pin=U5-16
+Added Component: Designator=B1(BNC)
+Added Pin To Net: NetName=PH+ Pin=B1-1
+Added Pin To Net: NetName=PH- Pin=B1-2
+Added Pin To Net: NetName=PH- Pin=B1-2
+Added Pin To Net: NetName=PH- Pin=B1-2
+Added Pin To Net: NetName=IO_Rain_Sensor Pin=JP1-12
+Added Pin To Net: NetName=IO_Rain_Sensor Pin=U5-16
+Added Net: Name=IO_Rain_Sensor
+Added Pin To Net: NetName=MCU_PIN_RX2_DB Pin=JP1-5
+Added Pin To Net: NetName=MCU_PIN_RX2_DB Pin=U5-13
+Added Net: Name=MCU_PIN_RX2_DB
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component B1 CP-BNCPC-010
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

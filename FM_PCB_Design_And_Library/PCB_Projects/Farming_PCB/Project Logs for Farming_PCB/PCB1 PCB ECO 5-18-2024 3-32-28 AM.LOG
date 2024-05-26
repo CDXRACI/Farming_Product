@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Pin To Net: NetName=MCU_PIN_RX1_SIM Pin=U5-43
+Added Pin To Net: NetName=MCU_PIN_RX1_SIM Pin=U8-20
+Added Net: Name=MCU_PIN_RX1_SIM
+Added Pin To Net: NetName=MCU_PIN_TX1_SIM Pin=U5-42
+Added Pin To Net: NetName=MCU_PIN_TX1_SIM Pin=U8-18
+Added Net: Name=MCU_PIN_TX1_SIM
+Added Pin To Net: NetName=PWR_KEY_FR_MCU Pin=R29-2
+Added Pin To Net: NetName=PWR_KEY_FR_MCU Pin=U5-46
+Added Net: Name=PWR_KEY_FR_MCU
+Added Pin To Net: NetName=RESET_PIN_FR_MCU Pin=R28-2
+Added Pin To Net: NetName=RESET_PIN_FR_MCU Pin=U5-45
+Added Net: Name=RESET_PIN_FR_MCU
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

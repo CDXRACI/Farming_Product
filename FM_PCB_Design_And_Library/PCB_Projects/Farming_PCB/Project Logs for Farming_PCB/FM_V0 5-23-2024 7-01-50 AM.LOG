@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VDD_EXT_1V8 Pin=P3-1
+Removed Pin From Net: NetName=VDD_EXT_1V8 Pin=P3-1
+Removed Pin From Net: NetName=VDD_EXT_1V8 Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=VDD_EXT_1V8 Pin=U6-15
+Removed Pin From Net: NetName=VDD_EXT_1V8 Pin=U8-2
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=P3
+Added Component: Designator=P9(MicroSIM Card PUSH - PUSH HOLDER)
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-01312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = "Link mua hàng:  http://www.kme.com.vn/khay-micro-sim-y.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MicroSIM Card Push - Push Holder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_DATA Pin=C46-2
+Added Pin To Net: NetName=SIM_CLK Pin=C47-2
+Added Pin To Net: NetName=SIM_RST Pin=C48-2
+Added Pin To Net: NetName=VDD_EXT_1V8 Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-5
+Added Pin To Net: NetName=SIM_RST Pin=R36-2
+Added Pin To Net: NetName=SIM_CLK Pin=R37-2
+Added Pin To Net: NetName=SIM_DATA Pin=R38-2
+Added Pin To Net: NetName=VDD_EXT_1V8 Pin=U6-30
+Change Net Name : Old Net Name=VDD_EXT_1V8 New Net Name=SIM_VDD
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=R36-1
+Added Pin To Net: NetName=NetP9_2 Pin=U7-5
+Added Net: Name=NetP9_2
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=NetP9_3 Pin=R37-1
+Added Pin To Net: NetName=NetP9_3 Pin=U7-4
+Added Net: Name=NetP9_3
+Added Pin To Net: NetName=NetP9_7 Pin=P9-7
+Added Pin To Net: NetName=NetP9_7 Pin=R38-1
+Added Pin To Net: NetName=NetP9_7 Pin=U7-3
+Added Net: Name=NetP9_7
+Added Pin To Net: NetName=VDD_EXT_1V8 Pin=U6-15
+Added Pin To Net: NetName=VDD_EXT_1V8 Pin=U8-2
+Added Net: Name=VDD_EXT_1V8
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component P9 MicroSIM Card Push - Push Holder
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

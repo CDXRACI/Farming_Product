@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=USB_DM Pin=R47-2
+Removed Pin From Net: NetName=USB_DP Pin=R48-2
+Removed Pin From Net: NetName=USB_DP Pin=R49-1
+Added Pin To Net: NetName=USB_N Pin=R47-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=R48-2
+Added Pin To Net: NetName=USB_P Pin=R49-1
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

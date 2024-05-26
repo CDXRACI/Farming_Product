@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MCU_PIN_CTR_RI Pin=U5-41
+Added Pin To Net: NetName=MCU_PIN_CTR_RI Pin=U8-17
+Added Net: Name=MCU_PIN_CTR_RI

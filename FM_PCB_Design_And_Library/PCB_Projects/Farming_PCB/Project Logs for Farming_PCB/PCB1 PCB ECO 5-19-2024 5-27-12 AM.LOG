@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=OP_PH_SENSOR Pin=U5-14
+Removed Pin From Net: NetName=IO_Light_UV_Sensor Pin=U5-15
+Removed Pin From Net: NetName=IO_Rain_Sensor Pin=U5-16
+Removed Pin From Net: NetName=OP_TEMP_SENSOR Pin=U5-17
+Removed Pin From Net: NetName=IO_Soil_Sensor Pin=U5-18
+Added Pin To Net: NetName=IO_Light_UV_Sensor Pin=U5-14
+Added Pin To Net: NetName=IO_Rain_Sensor Pin=U5-15
+Added Pin To Net: NetName=IO_Soil_Sensor Pin=U5-16
+Added Pin To Net: NetName=OP_PH_SENSOR Pin=U5-17
+Added Pin To Net: NetName=OP_TEMP_SENSOR Pin=U5-18
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetR26_2 Pin=R26-1
+Removed Pin From Net: NetName=NetR43_1 Pin=R43-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R44-2
+Added Component: Designator=C34(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=U8(TXS0108E)
+Added Pin To Net: NetName=VBATT Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=NetC26_1 Pin=R54-1
+Added Pin To Net: NetName=TXD Pin=U8-1
+Added Pin To Net: NetName=VDD_EXT_1V8 Pin=U8-2
+Added Pin To Net: NetName=RXD Pin=U8-3
+Added Pin To Net: NetName=VBATT Pin=U8-19
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=U8-11
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=U8-10
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U8-9
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U8-12
+Added Net: Name=NetR35_1
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C34 10PF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C35 10PF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R34 NF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R35 NF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component U8 TXS0108E
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

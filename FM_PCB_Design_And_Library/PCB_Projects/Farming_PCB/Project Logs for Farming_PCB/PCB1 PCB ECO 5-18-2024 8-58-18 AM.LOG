@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=Po Pin=R39-1
+Removed Pin From Net: NetName=NetD11_K Pin=R40-2
+Removed Pin From Net: NetName=NetR43_1 Pin=R43-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R44-1
+Removed Pin From Net: NetName=NetR43_2 Pin=R44-2
+Removed Pin From Net: NetName=NetR43_1 Pin=U9-1
+Removed Pin From Net: NetName=NetR43_2 Pin=U9-2
+Change Component Footprint: Designator=R26 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R33 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R39 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R40 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R41 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R42 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R43 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R44 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change Component Footprint: Designator=R60 Old Footprint=RESC1608N_ZERO New Footprint=RESC-0603 (1608)
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\YBIHSPFQ" ("\HESCVHGY\YBIHSPFQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\EBZOQJKJ" ("\HESCVHGY\EBZOQJKJ")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\PXOMEENZ" ("\HESCVHGY\PXOMEENZ")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\XNHPFNGA" ("\HESCVHGY\XNHPFNGA")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\EEYSCWPW" ("\HESCVHGY\EEYSCWPW")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\JYZQDYFF" ("\HESCVHGY\JYZQDYFF")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\GXEVIIJT" ("\HESCVHGY\GXEVIIJT")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\NGPXWBGZ" ("\HESCVHGY\NGPXWBGZ")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60" ("R60"); Footprint = "RESC1608N_ZERO"; UniqueID = "\HESCVHGY\IMUAHGZT" ("\HESCVHGY\IMUAHGZT")
+Change component parameters (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=R26-2
+Added Pin To Net: NetName=Po Pin=R39-2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=NetR43_1 Pin=R44-2
+Added Pin To Net: NetName=NetR43_2 Pin=U9-1
+Added Pin To Net: NetName=NetR43_1 Pin=U9-2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U9-3
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=R41-2
+Added Pin To Net: NetName=NetR39_1 Pin=U15-3
+Added Net: Name=NetR39_1
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

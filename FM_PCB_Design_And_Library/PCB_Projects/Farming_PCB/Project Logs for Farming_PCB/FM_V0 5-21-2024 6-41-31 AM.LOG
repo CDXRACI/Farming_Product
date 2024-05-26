@@ -1,0 +1,7 @@
+Added Component: Designator=J1(USB-Micro AB)
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=USB_DM Pin=J1-2
+Added Pin To Net: NetName=USB_DP Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component J1 USB M
+Added Room: Name=U_[F_V1]MCU_Sheet

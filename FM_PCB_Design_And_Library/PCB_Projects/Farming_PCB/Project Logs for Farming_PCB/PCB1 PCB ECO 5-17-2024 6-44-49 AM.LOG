@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=D15-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=RESET_PIN_FR_MCU Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=D15
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Q5
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=R39
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=R40
+Added Component: Designator=C28(100uF 1210 SMD)
+Added Component: Designator=C29(100uF 1210 SMD)
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VBATT Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VBATT Pin=C29-2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C28 100uF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component C29 100uF
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

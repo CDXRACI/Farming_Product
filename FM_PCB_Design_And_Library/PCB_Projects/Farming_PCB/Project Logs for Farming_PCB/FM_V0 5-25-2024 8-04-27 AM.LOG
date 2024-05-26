@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MCU_PIN_TX1_SIM Pin=U8-17
+Added Pin To Net: NetName=NetU5_41 Pin=U5-41
+Added Net: Name=NetU5_41
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

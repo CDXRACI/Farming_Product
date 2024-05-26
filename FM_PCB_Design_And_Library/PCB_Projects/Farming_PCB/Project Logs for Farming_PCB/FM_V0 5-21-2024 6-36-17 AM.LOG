@@ -1,0 +1,11 @@
+Added Component: Designator=D9(DO-214AC)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_CTR_UBATT Pin=D9-A
+Added Pin To Net: NetName=RI Pin=U8-4
+Added Pin To Net: NetName=RI Pin=U8-17
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component D9 Diode  1N4007
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component R45 1K
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=U12
+Removed Member From Class: ClassName=U_[F_V1]MCU_Sheet Member=U12
+Added Component: Designator=U13(DIP4/W0.3)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component U13 PC817
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

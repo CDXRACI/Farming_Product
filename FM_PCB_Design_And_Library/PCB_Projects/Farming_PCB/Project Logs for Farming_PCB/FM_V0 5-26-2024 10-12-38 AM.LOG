@@ -1,0 +1,27 @@
+Added Component: Designator=M1(HOLE_2MM_5MM)
+Add component (AddParameter): Name = "ClassName"; Value = "MECH_HOLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HOLE"; VariantName = "[No Variations]"
+Added Component: Designator=M2(HOLE_2MM_5MM)
+Add component (AddParameter): Name = "ClassName"; Value = "MECH_HOLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HOLE"; VariantName = "[No Variations]"
+Added Component: Designator=M3(HOLE_2MM_5MM)
+Add component (AddParameter): Name = "ClassName"; Value = "MECH_HOLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HOLE"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=U_[F_V1]_PowerSheet Member=Component M1 HOLE
+Added Member To Class: ClassName=U_[F_V1]_PowerSheet Member=Component M2 HOLE
+Added Member To Class: ClassName=U_[F_V1]_PowerSheet Member=Component M3 HOLE
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

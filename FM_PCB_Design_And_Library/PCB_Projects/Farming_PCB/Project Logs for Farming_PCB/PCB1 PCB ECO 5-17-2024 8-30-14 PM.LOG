@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VBATT Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=D12-1
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Removed Pin From Net: NetName=VBATT Pin=U8-19
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=ANT1
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=D12
+Removed Member From Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=R33
+Added Component: Designator=AT1(ANTENA - SMA2)
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00392"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RFCON171003SF6B001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "HAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AT-GSM-GPS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Pin To Net: NetName=NetAT1_1 Pin=AT1-1
+Added Pin To Net: NetName=NetAT1_1 Pin=C39-2
+Added Pin To Net: NetName=NetAT1_1 Pin=R32-1
+Added Net: Name=NetAT1_1
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component AT1 AT-GSM-GPS
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=MCU_PIN_SPI_MISO Pin=P4-3
+Removed Pin From Net: NetName=SWDIO Pin=P4-4
+Removed Pin From Net: NetName=MCU_PIN_SPI_CLK Pin=P4-5
+Removed Pin From Net: NetName=SWCLK Pin=P4-6
+Change Component Footprint: Designator=P4 Old Footprint=HDR2X4 New Footprint=HDR2X4_CEN
+Change Component Comment : Designator=P4 Old Comment=Header 4X2 New Comment=Header 4X2A
+Change component parameters: Designator = "P4" ("P4"); Footprint = "HDR2X4"; UniqueID = "\ELMCZGUH\UNFJCDKN" ("\ELMCZGUH\UNFJCDKN")
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_PIN_SPI_MISO Pin=P4-2
+Added Pin To Net: NetName=MCU_PIN_SPI_CLK Pin=P4-3
+Added Pin To Net: NetName=SWDIO Pin=P4-6
+Added Pin To Net: NetName=SWCLK Pin=P4-7
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

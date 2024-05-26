@@ -1,0 +1,17 @@
+Added Component: Designator=AT1(BNC-KE)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = "https://detail.tmall.com/item.htm?id=600889032311&ali_refid=a3_430620_1006:1106519694:N:bqURkf1/6XELXFWgHn0phw==:e744e300de7662eb842b86005d159f1e&ali_trackid=1_e744e300de7662eb842b86005d159f1e&spm=a230r.1.14.1&skuId=4376461827836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "BNC-KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PH+ Pin=AT1-1
+Added Pin To Net: NetName=PH- Pin=AT1-2
+Added Pin To Net: NetName=PH- Pin=AT1-2
+Added Pin To Net: NetName=PH- Pin=AT1-2
+Added Pin To Net: NetName=PH- Pin=AT1-2
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component AT1 BNC-KE
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

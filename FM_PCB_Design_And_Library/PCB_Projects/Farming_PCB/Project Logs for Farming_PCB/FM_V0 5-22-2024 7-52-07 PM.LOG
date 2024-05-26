@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCU_PIN_SPI_CLK Pin=P4-3
+Added Pin To Net: NetName=MCU_PIN_SPI_CLK Pin=P4-5
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

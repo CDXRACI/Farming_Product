@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=USB_DM Pin=J1-2
+Removed Pin From Net: NetName=USB_DP Pin=J1-3
+Added Component: Designator=R47(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "Not Fill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_DM Pin=R47-2
+Added Pin To Net: NetName=USB_DM Pin=R48-2
+Added Pin To Net: NetName=USB_DM Pin=R49-1
+Added Pin To Net: NetName=VBATT Pin=R49-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R47-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R48-1
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R47 NF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R48 NF
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component R49 NF
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

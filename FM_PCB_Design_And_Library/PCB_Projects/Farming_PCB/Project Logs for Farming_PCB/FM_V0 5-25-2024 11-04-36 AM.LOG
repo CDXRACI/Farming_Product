@@ -1,0 +1,24 @@
+Added Component: Designator=S1(SOCKET SIM)
+Added Pin To Net: NetName=SIM_VDD Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=S1-2
+Added Pin To Net: NetName=NetR36_1 Pin=U7-5
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=S1-3
+Added Pin To Net: NetName=NetR37_1 Pin=U7-4
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=S1-7
+Added Pin To Net: NetName=NetR38_1 Pin=U7-3
+Added Net: Name=NetR38_1
+Added Member To Class: ClassName=U_[F_V1]_CommMunication_Sheet Member=Component S1 SOCKET SIM C7801
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

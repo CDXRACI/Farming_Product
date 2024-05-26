@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OP_PH_SENSOR Pin=U5-18
+Added Pin To Net: NetName=OP_PH_SENSOR Pin=U5-19
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

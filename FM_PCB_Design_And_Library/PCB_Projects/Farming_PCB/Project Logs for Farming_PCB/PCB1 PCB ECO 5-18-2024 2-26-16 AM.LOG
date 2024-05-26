@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MCU_PIN_I2C2_SCL Pin=JP1-16
+Removed Pin From Net: NetName=MCU_PIN_I2C2_SCA Pin=JP1-18
+Removed Pin From Net: NetName=IO_Soil_Sensor Pin=JP1-20
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Added Pin To Net: NetName=IO_Soil_Sensor Pin=JP1-16
+Added Pin To Net: NetName=MCU_PIN_I2C2_SCL Pin=JP1-18
+Added Pin To Net: NetName=MCU_PIN_I2C2_SCA Pin=JP1-20
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

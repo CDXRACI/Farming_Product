@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=USB_P Pin=U6-27
+Added Pin To Net: NetName=USB_N Pin=U6-28
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

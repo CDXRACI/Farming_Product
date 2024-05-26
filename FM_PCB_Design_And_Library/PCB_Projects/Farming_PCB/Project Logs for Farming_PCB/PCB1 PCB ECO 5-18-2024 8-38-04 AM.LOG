@@ -1,0 +1,242 @@
+Removed Pin From Net: NetName=GND Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=D18-1
+Removed Pin From Net: NetName=NetC26_1 Pin=D18-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R54-2
+Removed Pin From Net: NetName=Po Pin=R55-2
+Removed Pin From Net: NetName=NetC26_1 Pin=R56-1
+Removed Pin From Net: NetName=Po Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R61-1
+Removed Pin From Net: NetName=NetR26_2 Pin=U9-2
+Removed Pin From Net: NetName=NetR43_2 Pin=U9-3
+Removed Pin From Net: NetName=Po Pin=U14-2
+Removed Pin From Net: NetName=PH+ Pin=U14-3
+Removed Pin From Net: NetName=GND Pin=U14-4
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=C60
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=D18
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=R54
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=R55
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=R56
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=R58
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=R61
+Removed Member From Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=U14
+Change Component Comment : Designator=R26 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R43 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R44 Old Comment=10K New Comment=200R
+Added Component: Designator=C36(CAPC1608X90N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://psearch.murata.com/capacitor/product/GRM188R71C474KA88#.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://psearch.murata.com/capacitor/product/GRM188R71C474KA88#.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yuden.co.jp/or/product/category/capacitor/EMK107B7474KA-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yuden.co.jp/or/product/category/capacitor/EMK107B7474KA-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 4"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM188R71C474KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1C474K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "EMK107B7474KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 4"; Value = "CL10B474KONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "16V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3295-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-5192-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "587-1250-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SOD323)
+Add component (AddParameter): Name = "Diode Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MM3Z3V3ST1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "3.3V; 0.2W; Vf=900mV @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MM3Z3V3ST1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±3%"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC1608N_ZERO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "AC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "P0.0GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "311-0.0LECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC1608N_ZERO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "AC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "P0.0GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "311-0.0LECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC1608N_ZERO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "AC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "P0.0GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "311-0.0LECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RESC1608N_ZERO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "AC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "P0.0GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "311-0.0LECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RESC1608N_ZERO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.yageo.com/documents/recent/PYu-AC_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "AC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "P0.0GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "311-0.0LECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=D11-A
+Added Pin To Net: NetName=IO_Light_UV_Sensor Pin=JP1-5
+Added Pin To Net: NetName=IO_Light_UV_Sensor Pin=JP1-12
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=R33-2
+Added Pin To Net: NetName=Po Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=R57-3
+Added Pin To Net: NetName=IO_Light_UV_Sensor Pin=U5-13
+Added Pin To Net: NetName=IO_Light_UV_Sensor Pin=U5-16
+Added Pin To Net: NetName=NetR43_2 Pin=U9-2
+Added Pin To Net: NetName=NetR26_2 Pin=U9-3
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=U9-8
+Added Pin To Net: NetName=Po Pin=U15-1
+Added Pin To Net: NetName=PH+ Pin=U15-2
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=U15-8
+Added Pin To Net: NetName=NetC26_1 Pin=U16-1
+Added Pin To Net: NetName=GND Pin=U16-4
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=U16-8
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=R40-1
+Added Pin To Net: NetName=NetC36_1 Pin=R42-2
+Added Pin To Net: NetName=NetC36_1 Pin=U15-5
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetD11_K Pin=D11-K
+Added Pin To Net: NetName=NetD11_K Pin=R33-1
+Added Pin To Net: NetName=NetD11_K Pin=R40-2
+Added Net: Name=NetD11_K
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=R41-2
+Added Pin To Net: NetName=NetR39_2 Pin=U15-3
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=PH- Pin=U15-6
+Added Pin To Net: NetName=PH- Pin=U15-7
+Added Net: Name=PH-
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component C36 104
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component D11 3.3V
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component R33 1K
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component R39 10K
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component R40 1K
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component R41 10K
+Added Member To Class: ClassName=U_[F_V1]_Sensors_And_BlockControl_Sheet Member=Component R42 10K
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetR26_2 Pin=R26-1
+Removed Pin From Net: NetName=NetR43_1 Pin=R43-2
+Removed Pin From Net: NetName=NetR43_2 Pin=R44-2
+Removed Pin From Net: NetName=BOOT0_PIN Pin=U5-40
+Added Pin To Net: NetName=VCC_5V Pin=C28-2
+Added Pin To Net: NetName=VCC_5V Pin=C29-2
+Added Pin To Net: NetName=VCC_5V Pin=C30-2
+Added Pin To Net: NetName=VCC_5V Pin=C31-2
+Added Pin To Net: NetName=VCC_5V Pin=C32-2
+Added Pin To Net: NetName=VCC_5V Pin=C33-2
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=C34-2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=NetC26_1 Pin=R54-1
+Added Pin To Net: NetName=BOOT0_PIN Pin=U5-44
+Added Pin To Net: NetName=VCC_5V Pin=U6-55
+Added Pin To Net: NetName=VCC_5V Pin=U6-56
+Added Pin To Net: NetName=VCC_5V Pin=U6-57
+Added Pin To Net: NetName=VCC_3.3V_MCU Pin=U8-19
+Change Net Name : Old Net Name=PWR_KEY_FR_MCU New Net Name=NetR29_2
+Change Net Name : Old Net Name=RESET_PIN_FR_MCU New Net Name=NetR28_2
+Change Net Name : Old Net Name=VCC_5V New Net Name=VBATT
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Added Pin To Net: NetName=NetU5_45 Pin=U5-45
+Added Net: Name=NetU5_45
+Added Pin To Net: NetName=NetU5_46 Pin=U5-46
+Added Net: Name=NetU5_46
+Added Pin To Net: NetName=NetU8_18 Pin=U8-18
+Added Net: Name=NetU8_18
+Added Pin To Net: NetName=NetU8_20 Pin=U8-20
+Added Net: Name=NetU8_20
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=L1  NewDesignator=L1 - 22uH
+Added Component: Designator=P4(HDR2X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDIO Pin=P4-4
+Added Pin To Net: NetName=SWCLK Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Pin To Net: NetName=MCU_PIN_SPI_CLK Pin=P4-5
+Added Pin To Net: NetName=MCU_PIN_SPI_CLK Pin=U5-26
+Added Net: Name=MCU_PIN_SPI_CLK
+Added Pin To Net: NetName=MCU_PIN_SPI_MISO Pin=P4-3
+Added Pin To Net: NetName=MCU_PIN_SPI_MISO Pin=U5-27
+Added Net: Name=MCU_PIN_SPI_MISO
+Added Pin To Net: NetName=MCU_PIN_SPI_MOSI Pin=P4-1
+Added Pin To Net: NetName=MCU_PIN_SPI_MOSI Pin=U5-28
+Added Net: Name=MCU_PIN_SPI_MOSI
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component P4 Header 4X2
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

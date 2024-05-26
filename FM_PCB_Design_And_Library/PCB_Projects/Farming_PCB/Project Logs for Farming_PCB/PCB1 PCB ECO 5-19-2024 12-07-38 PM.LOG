@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=VBATT Pin=D9-K
+Added Component: Designator=D12(DO-214AC)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D13(DO-214AC)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23_3)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2SC1815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2SC1815"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Added Component: Designator=T1(OPTO TRANSISTOR_SMD-4)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "HCPL-817-500E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "70V/50mA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=VBATT Pin=R45-1
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Pin To Net: NetName=NetD12_A Pin=D12-A
+Added Pin To Net: NetName=NetD12_A Pin=RL1-4
+Added Pin To Net: NetName=NetD12_A Pin=T1-4
+Added Net: Name=NetD12_A
+Added Pin To Net: NetName=NetD12_K Pin=D12-K
+Added Pin To Net: NetName=NetD12_K Pin=RL1-5
+Added Net: Name=NetD12_K
+Added Pin To Net: NetName=NetD13_K Pin=D13-K
+Added Pin To Net: NetName=NetD13_K Pin=R46-1
+Added Net: Name=NetD13_K
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=RL1-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP2-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=RL1-3
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R46-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=T1-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=T1-1
+Added Net: Name=NetR45_2
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component D12 Diode  1N4007
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component D13 Diode  1N4007
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component JP2 Header 2_1
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component Q4 2SC1815
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component R45 1K
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component R46 1K
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component T1 70V/50mA
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet
