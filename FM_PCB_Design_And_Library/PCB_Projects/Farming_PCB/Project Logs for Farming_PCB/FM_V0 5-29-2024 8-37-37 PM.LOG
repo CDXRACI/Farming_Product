@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=M1-GND
+Removed Pin From Net: NetName=GND Pin=M2-GND
+Removed Pin From Net: NetName=GND Pin=M3-GND
+Change Component Footprint: Designator=J1 Old Footprint=USB-Micro AB New Footprint=USB_M
+Change Component Comment : Designator=J1 Old Comment=USB M New Comment=USB_M
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

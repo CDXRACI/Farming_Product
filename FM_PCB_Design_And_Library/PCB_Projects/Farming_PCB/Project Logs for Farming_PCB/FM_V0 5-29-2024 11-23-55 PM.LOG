@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=M1-GND
+Removed Pin From Net: NetName=GND Pin=M2-GND
+Removed Pin From Net: NetName=GND Pin=M3-GND
+Added Component: Designator=R1002(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW06035R10FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_[F_V1]MCU_Sheet Member=Component R1002 1K
+Added Room: Name=U_[F_V1]_CommMunication_Sheet
+Added Room: Name=U_[F_V1]_PowerSheet
+Added Room: Name=U_[F_V1]_Sensors_And_BlockControl_Sheet
+Added Room: Name=U_[F_V1]MCU_Sheet

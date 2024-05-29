@@ -1,0 +1,39 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FM_V0.1.PcbDoc   5/29/2024  11:22:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FM_V0.1.TXT
+ASCII RectHoles File : FM_V0.1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             154       PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             1417      PTH        0.00inch (0.00mm)
+T3      35mil (0.889mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T5      39mil (1.001mm)                                           Round             22        PTH        0.00inch (0.00mm)
+T6      45mil (1.143mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T7      50mil (1.27mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      54mil (1.379mm)                                           Rectangle         2         PTH        0.00inch (0.00mm)
+T9      59mil (1.501mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T10     79mil (1.999mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T11     83mil (2.101mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T12     126mil (3.2mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1633
+
+Two holes at same point : 10
+-----------------------
+4497,2791
+4503,2044
+4503,2064
+3179,2578
+3178,2814
+3178,3050
+3613,2677
+3615,2650
+3383,2650
+3381,2677
+
+Total Processing Time (hh:mm:ss) : 00:00:00
