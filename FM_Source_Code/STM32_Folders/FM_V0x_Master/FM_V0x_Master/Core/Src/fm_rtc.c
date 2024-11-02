@@ -121,7 +121,7 @@ bool FM_V0x_RTC_Set_RTC ( ) {
 
         }
         sAlarm.Alarm = RTC_ALARM_A;
-        if (HAL_RTC_SetAlarm_IT(&hrtc, &sAlarm, RTC_FORMAT_BCD) != HAL_OK) {
+        if (HAL_RTC_SetAlarm_IT(&hrtc, &sAlarm, RTC_FORMAT_BIN) != HAL_OK) {
         Error_Handler(); }
     return true;
 }
@@ -261,8 +261,6 @@ bool FM_V0x_RTC_WakeUp   ( FM_V0x_Parameters_RTC_t RTC_WakeUp){
 void FM_V0x_RTC_Loop(  ){
   FM_V0x_RTC_Get_Time(&FM_V0x_Get_RTC );
   FM_V0x_RTC_Get_Date(&FM_V0x_Get_RTC );
-  HAL_PWR_EnterSTOPMode(PWR_MAINREGULATOR_ON, PWR_STOPENTRY_WFI);
-
 
 }
 

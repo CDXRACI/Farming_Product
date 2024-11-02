@@ -74,9 +74,9 @@ typedef struct  {
 
 typedef struct {
 
-        uint8_t Set_Second;
-        uint8_t Set_Min;
-        uint8_t Set_Hour;
+        uint32_t Set_Second;
+        uint32_t Set_Min;
+        uint32_t Set_Hour;
 
 }FM_V0x_Alarm_RTC_t;
 
@@ -104,7 +104,7 @@ typedef enum {
 
 typedef enum {
         FM_V0X_PARS_SET_HOUR = 0x00 ,
-        FM_V0X_PARS_SET_MIN  = 0x00 ,
+        FM_V0X_PARS_SET_MIN  = 0x15 ,
         FM_V0X_PARS_SET_SEC  = 0x00 ,
         FM_V0X_PARS_SET_DAY  = 0x30 ,
         FM_V0X_PARS_SET_MONT = 0x10 ,

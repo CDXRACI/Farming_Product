@@ -23,7 +23,7 @@
 #include "fm_rtc.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+uint8_t g_flag = 0;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -113,7 +113,7 @@ int main(void)
   FM_V0x_RTC_Set_RTC();
 
   /* USER CODE END 2 */
-
+    SystemClock_Config(); 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
@@ -122,21 +122,18 @@ int main(void)
     FM_V0x_RTC_Loop();
     DBG_OUT("Enter Sleep Moder\n"); 
     HAL_Delay(1000);
-    // HAL_SuspendTick();
-    // HAL_PWR_EnterSLEEPMode(PWR_MAINREGULATOR_ON, PWR_SLEEPENTRY_WFI); // sleep mode
+    HAL_SuspendTick();
+    HAL_PWR_EnterSLEEPMode(PWR_MAINREGULATOR_ON, PWR_SLEEPENTRY_WFI); // sleep mode
+    HAL_ResumeTick();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
 }
 void HAL_RTC_AlarmAEventCallback( RTC_HandleTypeDef *hrtc ) {
-  //  DBG_OUT("RTC_BUG: Something is wrong in RTC function\r\n");
-   SystemClock_Config(); 
-    MX_GPIO_Init();
-    MX_USART1_UART_Init();
+   DBG_OUT("RTC_BUG: Something is wrong in RTC function\r\n");
    FM_FUNC_GPIO_LED_STATUS_TOGG();
-    HAL_ResumeTick();
    DBG_OUT("Exit Sleep Moder\n"); 
-   FM_V0x_RTC_Set_RTC(); 
+  FM_V0x_RTC_Set_RTC();
   }
 /**
   * @brief System Clock Configuration
